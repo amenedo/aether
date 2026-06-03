@@ -1,0 +1,6 @@
+{
+  "name": "AETHER Studio",
+  "description": "An elite, spectacular world-class creative agency and technology studio bridging high-fidelity design, cinematic filmmaking, and custom AI intelligence systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
